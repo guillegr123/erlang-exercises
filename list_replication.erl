@@ -42,9 +42,8 @@
 % =================================================================================================
 
 % Enter your code here. Read input from STDIN. Print output to STDOUT
-% Your class should be named solution
 
--module(solution).
+-module(list_replication).
 -export([main/0]).
 
 read_array() ->
